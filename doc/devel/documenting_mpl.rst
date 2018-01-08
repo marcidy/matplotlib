@@ -188,6 +188,7 @@ guide:
              ['aitoff' | 'hammer' | 'lambert' | 'mollweide' | \
      'polar' | 'rectilinear'], optional
              The projection type of the axes.
+         """
 
   Alternatively, you can describe the valid parameter values in a dedicated
   section of the docstring.
